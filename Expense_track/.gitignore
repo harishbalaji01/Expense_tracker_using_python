@@ -1,0 +1,10 @@
+CSV file
+expense.csv
+
+Python cache
+pycache/
+*.pyc
+
+Environment folders
+.env
+venv/
